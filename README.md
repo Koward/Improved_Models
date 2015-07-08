@@ -8,15 +8,14 @@ Then I started my own tool, a[LKBC Converter](http://github.com/Koward/LKBC_Conv
 Now the models come from all extensions, from Burning Crusade to Warlords of Draenor.
 I hope you'll enjoy it ;)
 
-**WARNING : THIS MOD IS ONLY COMPATIBLE WITH WORLD OF WARCRAFT 1.12.1. ANY ATTEMPT TO USE IT ON AN OTHER VERSION WILL RESULT IN CRASHES AND IS A BLATANT PROOF OF YOUR STUPIDITY**
+**WARNING : THIS MOD IS ONLY COMPATIBLE WITH WORLD OF WARCRAFT 1.12.1. ANY ATTEMPT TO USE IT ON AN OTHER VERSION WILL RESULT IN CRASHES AND WILL BE USED AS PROOF OF STUPIDITY**
 
 ## CHANGES :
+* Modern Druid cat and bear forms(3.1)
+* A lot of high quality updated models for mobs (3.0, 4.0, 5.0, 6.0)
 * Elwynn trees (4.0)
 * Teldrassil, Ashenvale & Winterspring trees (4.0)
 * Stormwind Cathedral Square ground textures (4.0)
-* New Carrion bird model (3.0)
-* New texture for the Night elf cat form (3.1)
-* Molten giants (4.0)
 * Various Stormwind City textures (4.0)
 * Improved Night elf character screen
 * Stranglethorn trees (4.0)
@@ -24,12 +23,6 @@ I hope you'll enjoy it ;)
 * Improved waterfalls everywhere (3.0)
 * Stormwind Signs (4.0)
 * Human crates, barrels and postboxes (6.0)
-
-## POSSIBLES BUGS (Please, report them):
-* Scale issue : a model is bigger or smaller than it should (I think I fixed them all but you can never be sure)
-* Really bright texture : this happens when a _s is not transparent enough to fit the classic lighting system.
-* Funky moving model : a bug with my creature converter, resulting in parts of the body moving randomly.
-* Various crashs
 
 ## TO DO :
 * Stormwind Streetlamps (I've some problems with this one.. strange bugs..)
@@ -48,14 +41,15 @@ Tools used :
 
 ## Installation :
 ### Standard 1.12.1 server
-1. Download the Standard version
-2. Rename in patch-X.MPQ (X have to be a number)
-3. Place it in your Data folder
+1. Download the Standard version.
+2. Rename in patch-X.MPQ (X have to be a number).
+3. Place it in your Data folder.
 
 ### Nostalrius 1.12.1 server
-1. **BACKUP YOUR PATCH-2.MPQ FILE OF YOUR WOW INSTALLATION**
-2. **BACKUP YOUR PATCH-2.MPQ FILE OF YOUR WOW INSTALLATION**
-3. Download the Nostalrius version
+1. **BACKUP THE PATCH-2.MPQ FILE OF YOUR WOW INSTALLATION**
+Note : don't put your backup file in the Data folder, put it somewhere else or you'll be disconnected.
+2. **I'M SERIOUS, BACKUP THE PATCH-2.MPQ FILE OF YOUR WOW INSTALLATION**
+3. Download the Nostalrius version.
 4. Make sure the file is named patch-2.MPQ.
 5. Place it in your Data folder. Override the existing patch-2.MPQ
 
