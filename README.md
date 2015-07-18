@@ -28,8 +28,8 @@ I hope you'll enjoy it ;)
 * Stormwind Streetlamps (I've some problems with this one.. strange bugs..)
 * Westfall, Duskwood and Redridge Mountains trees (based on the Elwynn model)
 * Find the Stormwind crate model (Not StormwindCrate01.m2, I already replaced that one)
-* Update mobs : Crab/DeepSeaCrab, Crocodile/CataclysmCrocodile, Tiger/PandarenTiger, Wendigo/Wendigo2, Frog/Toad, Owl/Edited Kaliri?, Shark/ToothedShark and all demons updated with 6.2
-* Create new tree models to replace old ones
+* Update mobs : Tiger/PandarenTiger, Owl/Edited Kaliri?, Satyrs/Perotharn, Shark/ToothedShark and all demons updated with 6.2
+* Create new tree models with Blender to replace old ones
 Tools used :
 * CataToLK by Mjollna (CT=>LK)
 * Previously LK2BC by Stan84 and now my own LKBC converter (LK=>BC)
