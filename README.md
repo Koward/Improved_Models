@@ -8,10 +8,10 @@ Then I started my own tool, a[LKBC Converter](http://github.com/Koward/LKBC_Conv
 Now the models come from all extensions, from Burning Crusade to Warlords of Draenor.
 I hope you'll enjoy it ;)
 
-**WARNING : THIS MOD IS ONLY COMPATIBLE WITH WORLD OF WARCRAFT 1.12.1. ANY ATTEMPT TO USE IT ON AN OTHER VERSION WILL RESULT IN CRASHES AND WILL BE USED AS PROOF OF STUPIDITY**
+**WARNING : THIS MOD IS ONLY COMPATIBLE WITH WORLD OF WARCRAFT 1.12.1. ANY ATTEMPT TO USE IT ON AN OTHER VERSION WILL RESULT IN CRASHES AND WILL BE USED AS PROOF OF YOUR STUPIDITY**
 
 ## CHANGES :
-* Modern Druid cat and bear forms(3.1)
+* Modern Druid cat and bear forms (3.1)
 * A lot of high quality updated models for mobs (3.0, 4.0, 5.0, 6.0)
 * Elwynn trees (4.0)
 * Teldrassil, Ashenvale & Winterspring trees (4.0)
@@ -25,17 +25,14 @@ I hope you'll enjoy it ;)
 * Human crates, barrels and postboxes (6.0)
 
 ## TO DO :
-* Stormwind Streetlamps (I've some problems with this one.. strange bugs..)
 * Westfall, Duskwood and Redridge Mountains trees (based on the Elwynn model)
-* Find the Stormwind crate model (Not StormwindCrate01.m2, I already replaced that one)
 * Update mobs : Tiger/PandarenTiger, Owl/Edited Kaliri?, Satyrs/Perotharn, Shark/ToothedShark and all demons updated with 6.2
 * Create new tree models with Blender to replace old ones
+
 Tools used :
-* CataToLK by Mjollna (CT=>LK)
-* Previously LK2BC by Stan84 and now my own LKBC converter (LK=>BC)
-* M2TBC posted by Soluhe (BC=>Classic)
-* Previously Glitchy's Model Editing Suite
-* Previously Vim xxd and now also 010 Editor with M2&Skin templates
+* CataToLK with particles by PhilipTNG (CT=>LK)
+* My own converter (LK=>Classic)
+* 010 Editor with M2&Skin templates
 * Ladik's MPQ Editor
 * GIMP&Blender
 
