@@ -52,3 +52,6 @@ Note : don't put your backup file in the Data folder, put it somewhere else or y
 
 ##Download :
 https://github.com/Koward/Improved_Models/releases
+
+##Credits :
+Thanks to Shavier for his wolf textures.
