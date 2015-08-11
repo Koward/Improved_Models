@@ -46,7 +46,9 @@ Tools used :
 1. **BACKUP THE PATCH-2.MPQ FILE OF YOUR WOW INSTALLATION**
 Note : don't put your backup file in the Data folder, put it somewhere else or you'll be disconnected.
 2. **I'M SERIOUS, BACKUP THE PATCH-2.MPQ FILE OF YOUR WOW INSTALLATION**
-3. Download the Nostalrius version.
+3. Download the Nostalrius version, enUK or enUS depending on which version you're using.
+Note : you can check which version you're using at the bottom of your login screen. The version downloaded from their site is the enUK one. 
+If you choose wrong, don't worry, you'll just get an error message saying your files are corrupt.
 4. Make sure the file is named patch-2.MPQ.
 5. Place it in your Data folder. Override the existing patch-2.MPQ
 
