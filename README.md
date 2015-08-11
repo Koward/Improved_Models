@@ -4,7 +4,7 @@
 Hi !
 
 I had a while ago the idea of porting some Cataclysm m2s in WoW Classic. I first converted the models with tools found on Modcraft and fixed little things like textures to fit the 1.12 lighting system. 
-Then I started my own tool, a[LKBC Converter](http://github.com/Koward/LKBC_Converter) in C, allowing me to go further in the process.
+Then I started my own tool, a [LKBC Converter](http://github.com/Koward/LKBC_Converter) in C, allowing me to go further in the process.
 Now the models come from all extensions, from Burning Crusade to Warlords of Draenor.
 I hope you'll enjoy it ;)
 
