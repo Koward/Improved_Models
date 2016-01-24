@@ -4,11 +4,12 @@
 Hi !
 
 I had a while ago the idea of porting some Cataclysm m2s in WoW Classic. I first converted the models with tools found on Modcraft and fixed little things like textures to fit the 1.12 lighting system. 
-Then I started my own tool, a [LKBC Converter](http://github.com/Koward/LKBC_Converter) in C, allowing me to go further in the process.
-Now the models come from all extensions, from Burning Crusade to Warlords of Draenor.
+A year I started my own tool, a [M2 Converter](http://github.com/Koward/jM2converter) in Java, allowing me to go further in the process.
+Now the models come from all extensions, even from Legion Beta.
 I hope you'll enjoy it ;)
 
-**WARNING : THIS MOD IS ONLY COMPATIBLE WITH WORLD OF WARCRAFT 1.12.1. ANY ATTEMPT TO USE IT ON AN OTHER VERSION WILL RESULT IN CRASHES AND WILL BE USED AS PROOF OF YOUR STUPIDITY**
+**WARNING : THIS MOD IS ONLY COMPATIBLE WITH WORLD OF WARCRAFT 1.12.1. ANY ATTEMPT TO USE IT ON AN OTHER VERSION WILL RESULT IN CRASHES AND SHALL BE USED AS PROOF OF YOUR STUPIDITY**
+**WARNING 2: THERE MAY BE INCOMPATIBILITY WITH OTHER MODS OVERRIDING THE SAME DBC FILES.**
 
 ## CHANGES :
 * Modern Druid cat and bear forms (3.1)
