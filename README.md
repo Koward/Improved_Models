@@ -1,10 +1,9 @@
 # The Improved Models Patch
 
 ![Logo](http://b.thumbs.redditmedia.com/aetMRPVEDnE3u3qmEA3_n1pp9RsZJ84-u_C9uWBaW6E.png)
-Hi !
 
 I had a while ago the idea of porting some Cataclysm m2s in WoW Classic. I first converted the models with tools found on Modcraft and fixed little things like textures to fit the 1.12 lighting system. 
-A year I started my own tool, a [M2 Converter](http://github.com/Koward/jM2converter) in Java, allowing me to go further in the process.
+A year ago I started my own tool to [convert M2 models](http://github.com/Koward/jM2converter) in Java, allowing me to go further in the process.
 Now the models come from all extensions, even from Legion Beta.
 I hope you'll enjoy it ;)
 
@@ -13,7 +12,7 @@ I hope you'll enjoy it ;)
 
 ## CHANGES :
 * Modern Druid cat and bear forms (3.1)
-* A lot of high quality updated models for mobs (3.0, 4.0, 5.0, 6.0)
+* A lot of high quality updated models for mobs (3.0, 4.0, 5.0, 6.0, 7.0)
 * Elwynn trees (4.0)
 * Teldrassil, Ashenvale & Winterspring trees (4.0)
 * Stormwind Cathedral Square ground textures (4.0)
@@ -31,11 +30,11 @@ I hope you'll enjoy it ;)
 * Create new tree models with Blender to replace old ones
 
 Tools used :
-* CataToLK with particles by PhilipTNG (CT=>LK)
-* My own converter (LK=>Classic)
-* 010 Editor with M2&Skin templates
-* Ladik's MPQ Editor
-* GIMP&Blender
+* [jM2converter](http://github.com/Koward/jM2converter)
+* [010 Editor with M2&Skin templates](http://modcraft.superparanoid.de/viewtopic.php?f=59&t=828&hilit=010+templates)
+* [Ladik's MPQ Editor](http://www.zezula.net/en/mpq/download.html)
+* [GIMP](https://www.gimp.org/)
+* [Blender](https://www.blender.org/)
 
 ## Installation :
 ### Standard 1.12.1 server
