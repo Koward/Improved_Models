@@ -35,7 +35,7 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 62;62;0;0;1,3;255;HydraSkinBlue;;;;0;0
 64;64;0;0;1;255;;;;HumanMaleCitizenLow;0;0
 65;65;0;0;1;255;;;;HumanMaleCitizenLow;0;0
-68;68;0;0;1;255;BalrogSkinBlue;BalrogWingBlue;;HumanMaleCitizenLow;0;0
+68;2395;0;0;1;255;DoomGuard2_Body_Blue;DoomGuard2_Wings_Blue;;HumanMaleCitizenLow;0;0
 69;69;0;0;1;255;RockElementalSkinBrown;;;HumanMaleCitizenLow;0;0
 71;71;0;0;1;255;HarvestGolemSkinBrown;HarvestGolemBitsBrown;;HumanMaleCitizenLow;0;0
 73;73;0;0;1;255;;;;HumanMaleCitizenLow;0;0
@@ -259,7 +259,7 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 428;102;0;0;1;255;HumanMaleFarmerSkin01;;;HumanMaleCitizenLow;0;0
 429;103;0;0;1;255;HumanMaleMerchant03Skin2;;;HumanMaleCitizenLow;0;0
 430;102;0;0;1,15;255;HumanMaleFarmerSkin02;;;HumanMaleCitizenLow;0;0
-433;68;0;0;0,5;255;BalrogSkinRed;BalrogWingRed;;HumanMaleCitizenLow;0;0
+433;2395;0;0;0,5;255;DoomGuard2_Body;DoomGuard2_Wings;;HumanMaleCitizenLow;0;0
 441;2385;0;0;1;255;Murloc2_Green;;;HumanMaleCitizenLow;0;0
 447;43;0;0;0,4;255;WolfSkinTimber;WolfSkinTimberAlpha;;HumanMaleCitizenLow;0;0
 448;32;0;0;1,75;255;OgreSkinGray;;;;0;0
@@ -1444,7 +1444,7 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 1909;51;0;600;1;255;OrcNPCSkin;OrcMaleSamuHairSkin;;HumanMaleCitizenLow;0;0
 1910;65;0;0;0,9;255;HorseSkinZebra;;;HumanMaleCitizenLow;0;0
 1911;65;0;0;1,1;255;HorseSkinZebra;;;HumanMaleCitizenLow;0;0
-1912;68;0;0;1,2;255;BalrogSkinRed;BalrogWingRed;;HumanMaleCitizenLow;0;0
+1912;2395;0;0;1,2;255;DoomGuard2_Body;DoomGuard2_Wings;;HumanMaleCitizenLow;0;0
 1913;2377;0;0;1;255;FelHound2_Red;;;HumanMaleCitizenLow;0;0
 1914;56;0;601;1;255;;;;HumanMaleCitizenLow;0;0
 1915;56;0;602;1;255;;;;HumanMaleCitizenLow;0;0
@@ -2224,7 +2224,7 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 2723;77;0;0;1;255;DryadSkinPurple;DryadEyeGlow;ArmorReflect2;HumanMaleCitizenLow;0;90
 2725;2381;0;0;1;255;KeeperOfTheGrove2_Blue;KeeperOfTheGrove2_Leaves_Blue;KeeperOfTheGrove2_Belt_Blue;HumanMaleCitizenLow;0;0
 2726;192;0;0;0,85;255;HyenaSkinBlack;;;;0;0
-2727;68;0;0;1,1;255;BalrogSkinBlue;BalrogWingBlue;;HumanMaleCitizenLow;0;0
+2727;2395;0;0;1,1;255;DoomGuard2_Body_Blue;DoomGuard2_Wings_Blue;;HumanMaleCitizenLow;0;0
 2728;62;0;0;1;255;HydraSkinBlack;;;;0;0
 2729;218;0;0;1;255;ScorpionskinGolden;;;;0;0
 2730;218;0;0;1;255;ScorpionskinBlue;;;;0;0
@@ -3718,8 +3718,8 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 4422;49;0;2692;1;255;;;;;0;0
 4423;49;0;2693;1;255;;;;;0;50
 4424;210;0;0;1,15;255;LionSkinBlack;;;;0;0
-4426;68;0;0;1,3;255;BalrogSkinRed;BalrogWingRed;;;0;0
-4427;68;0;0;1,3;165;BalrogSkinRed;BalrogWingRed;;HumanMaleCitizenLow;0;0
+4426;2395;0;0;1,3;255;DoomGuard2_Body;DoomGuard2_Wings;;;0;0
+4427;2395;0;0;1,3;165;DoomGuard2_Body;DoomGuard2_Wings;;HumanMaleCitizenLow;0;0
 4428;51;0;2496;1;165;;;;HumanMaleCitizenLow;0;0
 4429;127;0;0;1;255;PirateCaptain02;;;HumanMaleCitizenLow;0;50
 4430;49;0;2695;1;255;;;;;0;0
@@ -4878,7 +4878,7 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 6529;41;0;0;1,15;255;TroglodyteSkinGreen;;;HumanMaleCitizenLow;0;0
 6530;41;0;0;1,1;255;TroglodyteSkinPurple;;;HumanMaleCitizenLow;0;0
 6531;57;0;467;3;255;;;;;3;0
-6532;68;0;0;2,5;165;BalrogSkinBlue;BalrogWingBlue;BalrogSkinRed;;3;0
+6532;2395;0;0;2,5;165;DoomGuard2_Body_Blue;DoomGuard2_Wings_Blue;BalrogSkinRed;;3;0
 6533;41;0;0;1,5;255;TroglodyteSkinGreen;;;HumanMaleCitizenLow;0;0
 6534;84;0;0;1,2;255;StoneGolemSkinPlatinum;;;HumanMaleCitizenLow;0;0
 6535;185;0;4307;1;255;;;;HumanMaleCitizenLow;0;0
