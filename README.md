@@ -39,7 +39,7 @@ Tools used :
 ## Installation :
 ### Standard 1.12.1 server
 1. Download the Standard version.
-2. Rename in patch-X.MPQ (X have to be a number).
+2. Rename in patch-X.MPQ (X has to be a number).
 3. Place it in your Data folder.
 
 ### Nostalrius 1.12.1 server
