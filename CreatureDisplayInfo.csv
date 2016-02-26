@@ -518,7 +518,7 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 816;104;0;0;1,1;255;HumanMaleWarriorHeavy_Skin01;;;HumanMaleCitizenLow;0;0
 820;2370;0;0;1,15;255;Bear2SkinDrkBrown;;;;0;0
 821;63;0;0;0,85;255;TarantulaSkinBrown;;;HumanMaleCitizenLow;0;0
-822;2370;0;0;1;255;Bear2SkinBrown;;;;0;0
+822;2370;0;0;1;255;Bear2Skin;;;;0;0
 824;53;0;23;1;255;;;;HumanMaleCitizenLow;0;0
 825;53;0;1713;1;255;;;;HumanMaleCitizenLow;0;0
 827;63;0;0;0,55;255;TarantulaSkinBrown;;;HumanMaleCitizenLow;0;0
@@ -566,7 +566,7 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 897;8;0;0;1;255;FurbolgSkinBrown;FurbolgStuffBrown;;HumanMaleCitizenLow;0;0
 900;94;0;0;0,9;255;HumanFemaleFarmer_Bluedress;;;HumanMaleCitizenLow;0;0
 901;142;0;0;1;255;FrogBrownSpots;;;;0;0
-902;2370;0;0;0,85;255;Bear2SkinBrown;;;;0;0
+902;2370;0;0;0,85;255;Bear2Skin;;;;0;0
 903;43;0;0;0,7;255;WolfSkinTimber;WolfSkinTimberAlpha;;HumanMaleCitizenLow;0;0
 904;11;0;0;1;255;GrellSkinOrange;;;;0;0
 907;49;0;0;1;255;;;;HumanMaleCitizenLow;0;0
@@ -616,7 +616,7 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 976;41;0;0;1;255;TroglodyteSkinGreen;;;HumanMaleCitizenLow;0;0
 979;132;0;0;1;255;CrabSkinSaphire;;;;0;0
 981;132;0;0;1;255;CrabSkinIvory;;;;0;0
-982;2370;0;0;1,15;255;Bear2SkinBrown;;;;0;0
+982;2370;0;0;1,15;255;Bear2Skin;;;;0;0
 983;2385;0;0;1;255;Murloc2_Blue;;;HumanMaleCitizenLow;0;0
 984;144;0;0;1,15;255;BansheeSkin;;;;0;0
 985;144;0;0;0,75;255;BansheeSkin;;;;0;0
@@ -636,7 +636,7 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 1001;132;0;0;1,15;255;CrabSkinIvory;;;;0;0
 1004;76;0;0;1;255;FrenzySkinBlue;;;;0;0
 1005;2385;0;0;0,85;255;Murloc2_Murk;;;HumanMaleCitizenLow;0;0
-1006;2370;0;0;0,85;255;Bear2SkinBrown;;;;0;0
+1006;2370;0;0;0,85;255;Bear2Skin;;;;0;0
 1007;2370;0;0;1,15;255;Bear2SkinBlue;;;;0;0
 1008;82;0;0;0,85;255;TigerSkinYellow;;;HumanMaleCitizenLow;0;0
 1010;8;0;0;1;255;FurbolgSkinBlack;FurbolgstuffBlack;;HumanMaleCitizenLow;0;0
@@ -1515,7 +1515,7 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 1987;170;0;0;1;255;SnakeSkinYellowBlack;;;HumanMaleCitizenLow;0;0
 1988;141;0;0;1,75;255;EntSkinBrown;;;;0;0
 1989;63;0;0;0,85;255;TarantulaSkinGreen;;;HumanMaleCitizenLow;0;0
-1990;2370;0;0;1,3;255;Bear2SkinBrown;;;HumanMaleCitizenLow;0;0
+1990;2370;0;0;1,3;255;Bear2Skin;;;HumanMaleCitizenLow;0;0
 1991;194;0;0;1;255;WapitiSkinGreen;;;HumanMaleCitizenLow;0;0
 1992;194;0;0;1,15;255;WapitiSkinGreen;;;HumanMaleCitizenLow;0;0
 1993;62;0;0;1,5;255;HydraSkinBlue;;;;0;0
@@ -1891,7 +1891,7 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 2374;50;0;899;1;255;;;;HumanMaleCitizenLow;0;45
 2375;50;0;900;1;255;;;;;0;45
 2377;49;0;902;1;255;;;;;0;48
-2378;2370;0;0;1,3;255;Bear2SkinBrown;;;HumanMaleCitizenLow;0;0
+2378;2370;0;0;1,3;255;Bear2Skin;;;HumanMaleCitizenLow;0;0
 2379;50;0;905;1;255;;;;HumanMaleCitizenLow;0;45
 2380;49;0;906;1;255;;;;HumanMaleCitizenLow;0;48
 2381;49;0;907;1;255;;;;HumanMaleCitizenLow;0;48
@@ -4431,7 +4431,7 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 5507;59;0;3660;1;255;;;;HumanMaleCitizenLow;0;69
 5508;57;0;3663;1;255;;;;;0;83
 5509;57;0;3662;1;255;;;;;0;83
-5510;2370;0;0;0,6;255;Bear2SkinBrown;;;;0;0
+5510;2370;0;0;0,6;255;Bear2Skin;;;;0;0
 5525;53;0;3680;1;255;;;;;0;38
 5526;49;0;3682;1;255;;;;;0;49
 5527;50;0;3681;1;255;;;;HumanMaleCitizenLow;0;46
@@ -6284,7 +6284,7 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 9489;1031;0;0;1,75;255;DragonSpawnSkinBlue;DragonSpawnBodySkinBlue;;;0;0
 9490;205;0;0;1,15;255;TundraGiant;;;;0;0
 9491;8;0;0;1,75;255;FurbolgSkinWhite;FurbolgStuffWhite;;;0;0
-9492;2370;0;0;2;255;Bear2SkinBrown;;;;0;0
+9492;2370;0;0;2;255;Bear2Skin;;;;0;0
 9509;43;0;0;2;255;WolfSkinBlack;WolfSkinBlackAlpha;;;0;0
 9510;1271;0;0;1;255;;;;;0;0
 9511;43;0;0;0,4;255;WolfSkinBlack;WolfSkinBlackAlpha;;HumanMaleCitizenLow;0;0
@@ -9107,8 +9107,8 @@ Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;O
 14312;5;0;0;1;255;HoundSkinWhite;;;;0;0
 14313;61;0;0;0,85;255;CarrionBirdSkinRed;CarrionBirdWingRed;;;0;0
 14314;29;0;0;1,3;255;LostOne_Skin;LostOne_Skullbag;Yellow_Glow2;;0;0
-14315;2370;0;0;1,45;255;Bear2SkinBrown;;;;0;0
-14316;2370;0;0;1;255;Bear2SkinBrown;;;;0;0
+14315;2370;0;0;1,45;255;Bear2Skin;;;;0;0
+14316;2370;0;0;1;255;Bear2Skin;;;;0;0
 14317;29;0;0;0,8;150;LostOne_SkinWhite;LostOne_SkullbagBlue;DarkBlue_Glow2;;0;0
 14318;82;0;0;0,85;255;TigerSkinBlackSpotted;;;;0;0
 14319;61;0;0;1,3;255;CarrionBirdSkinBlue;CarrionBirdWingBlue;;;0;0
