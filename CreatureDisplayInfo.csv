@@ -1,5 +1,5 @@
-WDBC;;;;;;;;;;;
-Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|uint32;Scale|float;Opacity|int32;Skin1|string;Skin2|string;Skin3|string;portraitTextureName|string;blood|uint32;NPCSounds|uint32
+﻿WDBC;
+Id|uint32;Model|uint32;Sound|uint32;ExtraDisplayInformation|int32;Scale|float;Opacity|int32;Skin1|string;Skin2|string;Skin3|string;PortraitTextureName|string;BloodLevel|uint32;NPCSounds|uint32
 4;4;0;0;1;255;;;;HumanMaleCitizenLow;0;0
 13;13;0;0;1;255;;;;HumanMaleCitizenLow;0;0
 14;14;0;0;1;255;;;;HumanMaleCitizenLow;0;0
